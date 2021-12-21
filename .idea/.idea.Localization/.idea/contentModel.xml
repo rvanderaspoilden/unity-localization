@@ -7,6 +7,11 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="Inventory" t="Include">
+            <e p="DraggableItem.cs" t="Include" />
+            <e p="Inventory.cs" t="Include" />
+            <e p="ItemSlot.cs" t="Include" />
+          </e>
           <e p="LocalizationManager.cs" t="Include" />
           <e p="TextMeshProTranslator.cs" t="Include" />
         </e>
